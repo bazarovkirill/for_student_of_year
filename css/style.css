@@ -447,6 +447,13 @@ figure {
   }
 }
 
+#rofl {
+  color: #0b0b0c;
+}
+#rofl:hover {
+  color: #7f7f7f;
+}
+
 /* change img on new class or shut up and live with chaos in all pic*/
 /* @media screen and (max-width: 390px) {
   .img {

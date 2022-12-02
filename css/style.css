@@ -448,7 +448,7 @@ figure {
 }
 
 #rofl {
-  color: #0b0b0c;
+  color: transparent;
 }
 #rofl:hover {
   color: #7f7f7f;
